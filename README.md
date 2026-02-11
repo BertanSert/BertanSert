@@ -28,9 +28,9 @@ Geleceğin **Offshore Mühendisi** adayıyım. Özellikle Kuzey Denizi'ndeki ene
 
 
 
-![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=tokyonight)
+![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertanSert&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertanSert&layout=compact&theme=radical)
 <!--
 **BertanSert/BertanSert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
