@@ -24,13 +24,22 @@ Geleceğin **Offshore Mühendisi** adayıyım. Özellikle Kuzey Denizi'ndeki ene
 
 ### 📫 İletişim:
 * **Hedef:** Mezuniyet sonrası Norveç offshore sektöründe fark yaratmak!
-* **LinkedIn:** (https://www.linkedin.com/in/bertan-sert-723836315/)
+* * **LinkedIn:** [Bertan Sert](https://www.linkedin.com/in/bertan-sert-723836315/)
 
 
 
-![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertanSert&layout=compact&theme=radical)
+### 🛠️ Teknolojiler ve Araçlar
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F1F?style=for-the-badge&logo=solidworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### 🌍 Hedef ve Diller
+![Norway Bound](https://img.shields.io/badge/Norway-Offshore_Goal-blue?style=for-the-badge&logo=norway&logoColor=white)
+![English](https://img.shields.io/badge/English-Professional-green?style=for-the-badge&logo=google-translate&logoColor=white)
+![Norwegian](https://img.shields.io/badge/Norwegian-Bokmål_Learning-red?style=for-the-badge&logo=duolingo&logoColor=white)
 <!--
 **BertanSert/BertanSert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
