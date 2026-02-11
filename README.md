@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Merhaba, Ben Bertan Sert! 👋
 
 ### 🏗️ Makine Mühendisliği Öğrencisi | 3. Sınıf
