@@ -1,5 +1,30 @@
 ## Hi there 👋
+# Merhaba, Ben Bertan Sert! 👋
 
+### 🏗️ Makine Mühendisliği Öğrencisi | 3. Sınıf
+Geleceğin **Offshore Mühendisi** adayıyım. Özellikle Kuzey Denizi'ndeki enerji sistemleri ve dinamik analizler üzerine odaklanıyorum.
+---
+
+### 🚀 Neler Üzerinde Çalışıyorum?
+* 🌊 **Offshore Enerji:** Deniz üstü platformlar için sürdürülebilir enerji çözümleri.
+* ⚡ **Piezoelektrik Analiz:** Şehir içi yaya trafiğinden enerji hasadı simülasyonları.
+* 🐍 **Python:** Mühendislik problemlerini dijital çözümlere dönüştürme.
+
+### 🛠️ Teknik Yetkinlikler:
+* **Mühendislik:** Dinamik, Termodinamik, Akışkanlar Mekaniği.
+* **Yazılım:** Python (NumPy, Matplotlib), MATLAB, SolidWorks, AutoCAD.
+* **Donanım:** Yüksek performanslı sistem mimarisi ve optimizasyonu.
+
+### 🇳🇴 Dil Hedeflerim:
+* **Türkçe:** Anadil
+* **İngilizce:** İleri Seviye (Teknik ve Profesyonel)
+* **Norveççe (Bokmål):** Öğrenme aşamasında 🇳🇴
+
+---
+
+### 📫 İletişim:
+* **Hedef:** Mezuniyet sonrası Norveç offshore sektöründe fark yaratmak!
+* **LinkedIn:** (https://www.linkedin.com/in/bertan-sert-723836315/)
 <!--
 **BertanSert/BertanSert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
