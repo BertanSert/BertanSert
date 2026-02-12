@@ -37,7 +37,7 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bertan-sert/">
+  <a href="https://www.linkedin.com/in/bertan-sert-723836315/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
