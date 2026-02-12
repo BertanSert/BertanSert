@@ -61,7 +61,7 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
   </a>
 </div>
 
----
+
 
 
 
@@ -87,6 +87,7 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 ![Norway Bound](https://img.shields.io/badge/Norway-Offshore_Goal-blue?style=for-the-badge&logo=norway&logoColor=white)
 ![English](https://img.shields.io/badge/English-Professional-green?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Norwegian](https://img.shields.io/badge/Norwegian-Bokmål_Learning-red?style=for-the-badge&logo=duolingo&logoColor=white)
+---
 <!--
 **BertanSert/BertanSert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
