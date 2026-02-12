@@ -3,33 +3,46 @@
 
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=BertanSert&color=green&style=flat-square&label=PROFIL+ZIYARETI)
 
+<div align="center">
+  <h1>Hi there, I'm Bertan Sert! 👋</h1>
+  <h3>Mechanical Engineering Student | Offshore Energy Enthusiast</h3>
 
-
-# Merhaba, Ben Bertan Sert! 👋
-
-### 🏗️ Makine Mühendisliği Öğrencisi | 3. Sınıf
-Geleceğin **Offshore Mühendisi** adayıyım. Özellikle Kuzey Denizi'ndeki enerji sistemleri ve dinamik analizler üzerine odaklanıyorum.
----
-
-### 🚀 Neler Üzerinde Çalışıyorum?
-* 🌊 **Offshore Enerji:** Deniz üstü platformlar için sürdürülebilir enerji çözümleri.
-* ⚡ **Piezoelektrik Analiz:** Şehir içi yaya trafiğinden enerji hasadı simülasyonları.
-* 🐍 **Python:** Mühendislik problemlerini dijital çözümlere dönüştürme.
-
-### 🛠️ Teknik Yetkinlikler:
-* **Mühendislik:** Dinamik, Termodinamik, Akışkanlar Mekaniği.
-* **Yazılım:** Python (NumPy, Matplotlib), MATLAB, SolidWorks, AutoCAD.
-* **Donanım:** Yüksek performanslı sistem mimarisi ve optimizasyonu.
-
-### 🇳🇴 Dil Hedeflerim:
-* **Türkçe:** Anadil
-* **İngilizce:** İleri Seviye (Teknik ve Profesyonel)
-* **Norveççe (Bokmål):** Öğrenme aşamasında 🇳🇴
+  <p>
+    <b>PYTHON | SOLIDWORKS | MATLAB | AUTOCAD | NORWEGIAN (BOKMÅL)</b>
+  </p>
+</div>
 
 ---
 
-### 📫 İletişim:
-* **Hedef:** Mezuniyet sonrası Norveç offshore sektöründe fark yaratmak!
+### 🚀 Future Offshore Engineer from Turkey 🇹🇷
+I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norwegian Offshore Sector** (North Sea). I focus on dynamic analysis, energy systems, and engineering simulations.
+
+### 🔭 What I'm Working On?
+* 🌊 **Offshore Energy:** Sustainable solutions for offshore platforms.
+* ⚡ **[PiezoEnergy-Sim](https://github.com/BertanSert/PiezoEnergy-Sim):** Stochastic simulation of energy harvesting from footfall traffic using Python & NumPy. *(Updated Project)*
+* 🐍 **Engineering Python:** Converting mechanical problems into digital solutions.
+
+### 🛠 Technical Skills
+* **Engineering:** Dynamics, Thermodynamics, Fluid Mechanics.
+* **Software:** Python (NumPy, Matplotlib), MATLAB, SolidWorks, AutoCAD.
+* **Hardware:** High-performance system architecture.
+
+---
+
+### 🗣 Languages
+* **Turkish:** Native
+* **English:** Professional Working Proficiency 🇺🇸
+* **Norwegian (Bokmål):** Learning (A2/B1 Level) 🇳🇴
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bertan-sert/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
+
+
 * * **LinkedIn:** [Bertan Sert](https://www.linkedin.com/in/bertan-sert-723836315/)
 
 
