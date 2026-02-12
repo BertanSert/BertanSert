@@ -47,9 +47,9 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 
 
 
-![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical&cache_seconds=1800)
+![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertanSert&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BertanSert&layout=compact&theme=dark)
 
 
 
