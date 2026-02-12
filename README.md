@@ -1,3 +1,6 @@
+![Banner](github_banner.png)
+
+
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=BertanSert&color=green&style=flat-square&label=PROFIL+ZIYARETI)
 
 
