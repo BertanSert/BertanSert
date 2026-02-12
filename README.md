@@ -46,27 +46,15 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 
 <br>
 <div align="center">
+
   <img src="https://streak-stats.demolab.com?user=BertanSert&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-<br>
-
-
-
-<br>
-<div align="center">
-
-  <h3>🏆 Mühendislik Başarımları</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BertanSert&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="BertanSert" />
-  </a>
 
   <br><br>
 
-  <h3>🏗️ 3D Katkı Mimarisi</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BertanSert&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="3D Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BertanSert&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
-
+<br>
 
 
 
