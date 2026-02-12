@@ -30,7 +30,6 @@ Geleceğin **Offshore Mühendisi** adayıyım. Özellikle Kuzey Denizi'ndeki ene
 * * **LinkedIn:** [Bertan Sert](https://www.linkedin.com/in/bertan-sert-723836315/)
 
 
-![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=dark)
 
 ![Berto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical&cache_seconds=1800)
 
