@@ -44,17 +44,7 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
   </a>
 </div>
 
-<br>
-<div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=BertanSert&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BertanSert&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-<br>
 
 
 
@@ -85,7 +75,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<div align="center">
 
+  <img src="https://streak-stats.demolab.com?user=BertanSert&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BertanSert&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+<br>
 
 
 
