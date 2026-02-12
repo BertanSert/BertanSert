@@ -48,9 +48,12 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BertanSert&layout=compact&theme=dark" height="180" alt="Top Langs" />
+  <a href="https://www.linkedin.com/in/bertan-sert-723836315/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BertanSert&layout=compact&theme=dark" height="160" alt="Top Langs" />
 </div>
 
 
