@@ -2,7 +2,9 @@
 
 
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=BertanSert&color=green&style=flat-square&label=PROFIL+ZIYARETI)
-<img width="1880" height="672" alt="image" src="https://github.com/user-attachments/assets/382c0960-e767-4642-8365-cb55cf836645" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mechanical+Engineering+Student;Offshore+Energy+Enthusiast;Python+%26+Simulation+Developer;Future+Norwegian+Expat+🇳🇴" alt="Typing SVG" />
+</a>
 
 <div align="center">
   <h1>Hi there, I'm Bertan Sert! 👋</h1>
