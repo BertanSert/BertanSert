@@ -103,27 +103,6 @@ Here are some ideas to get you started:
 
 
 
----
-
-<div align="center">
-  <h3>📊 Activity & Connectivity</h3>
-
-  <img src="https://streak-stats.demolab.com?user=BertanSert&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BertanSert&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
-
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/bertan-sert-723836315/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-### 🛠 Technologies & Tools
 
 
 
