@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&text=Engineered%20for%20the%20North%20Sea&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer&text=Engineered%20for%20the%20North%20Sea&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%"/>
 </div>
