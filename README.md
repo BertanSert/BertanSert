@@ -46,16 +46,9 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 
 <br>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BertanSert&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BertanSert&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="Top Langs" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=BertanSert&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 <br>
-
 
 
 
