@@ -1,4 +1,4 @@
-![Banner](github_banner.png)
+![Banner](bertan sert.png)
 
 
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=BertanSert&color=green&style=flat-square&label=PROFIL+ZIYARETI)
