@@ -2,6 +2,7 @@
 
 
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=BertanSert&color=green&style=flat-square&label=PROFIL+ZIYARETI)
+<img width="1880" height="672" alt="image" src="https://github.com/user-attachments/assets/382c0960-e767-4642-8365-cb55cf836645" />
 
 <div align="center">
   <h1>Hi there, I'm Bertan Sert! 👋</h1>
