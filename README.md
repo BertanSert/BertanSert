@@ -45,7 +45,7 @@ I am a 3rd-year Mechanical Engineering student aiming for a career in the **Norw
 </div>
 
 
-* * **LinkedIn:** [Bertan Sert](https://www.linkedin.com/in/bertan-sert-723836315/)
+
 
 
 
